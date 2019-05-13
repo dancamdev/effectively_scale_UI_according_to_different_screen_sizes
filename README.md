@@ -1,16 +1,9 @@
-# scale_ui
+# Flutter - Effectively scale UI according to different screen sizes
 
-A new Flutter project.
+This is a companion GitHub page to the article available on Medium in the Flutter Community publication.
+It contains all the code covered in tha above mentioned article.
 
-## Getting Started
+## You can find me on the following social media:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Instagram: [@dancamdev](https://www.instagram.com/dancamdev/)
+Twitter: [@dancamdev](https://twitter.com/dancamdev)
